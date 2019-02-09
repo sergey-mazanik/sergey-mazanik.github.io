@@ -1,4 +1,4 @@
-# **ABOUT ME**
+## **ABOUT ME**
 - My name is Sergey
 - I was born in 1990 in Minsk, Belarus
 - I've finished the Belarusian State University of Informatics and Radioelectronics in 2019 and now I'm an engineer of radioelectronics
@@ -7,4 +7,4 @@
 ## **INTERESTS**
 - I used to be a professional football player, but after army I decided to finish my sport career and start to learning something new for me.
 
-### **PROVEN ABILITY**
+# **PROVEN ABILITY**
