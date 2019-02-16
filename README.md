@@ -8,4 +8,5 @@
 - I used to be a professional football player, but after army I decided to finish my sport career and start to learning something new for me.
 
 # **PROVEN ABILITY**
-Test link [GitHubPages](https://sergey-mazanik.github.io/)
+1. PadawansTask1 [completed](https://github.com/sergey-mazanik/PadawansTask1)
+2. PadawansTask2 [completed](https://github.com/sergey-mazanik/PadawansTask2)
