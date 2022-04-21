@@ -1,10 +1,9 @@
-## **ABOUT ME**
+# **ABOUT ME**
 Date of birth: 19.06.1990
-Phone number: + 375 25 975 73 60
-E-mail: sergey.mazanik1@gmail.com
 
-## **INTERESTS**
-- I used to be a professional football player, but after army I decided to finish my sport career and start to learning something new for me.
+Phone number: + 375 25 975 73 60
+
+E-mail: sergey.mazanik1@gmail.com
 
 # **QA-working experiences:**
 •	Functional testing CRM-system 1C (finding and reporting bugs in working process, communicating with IT-specialists);
@@ -70,4 +69,7 @@ Graduation: 2011
 Dec, 2014 – present   AkvilonAvto LLC	  Sales Manager
 
 Jun, 2011 – May, 2013   Lankor LLC   Mechanic
+
+# **INTERESTS**
+I used to be a professional football player, but after army I decided to finish my sport career and start to learning something new for me. I'm very motivated to change my life and I want to work hard for achieve this goal. My wife says that I'm an optimist and try to find positive in any difficult situation and do my best to keep it that way.
 
